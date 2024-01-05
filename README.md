@@ -6,7 +6,7 @@ Repo untuk test backend MSIB batch 6
 
 Instruksi langkah demi langkah tentang cara menginstal proyek ini. Termasuk prasyarat sistem dan langkah-langkah instalasi yang dibutuhkan.
 
-> [!Teknologi]
+> [!IMPORTANT]
 > Node.js
 > MYSQL
 
