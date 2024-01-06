@@ -31,14 +31,22 @@ USER = "root"
 PASSWORD =
 ```
 
+### import database
+
+```console
+SQL file on utils/store.sql
+```
+
 ### Run
 
 ```console
 npm run dev
 ```
+
 ## Routes
 
 ### Products
+
 ```console
 GET : /api/products
 GET : /api/products?sort=price&order=asc
@@ -46,24 +54,21 @@ POST : /api/products
 PUT : /api/products/:id
 DELETE : /api/products/:id
 ```
+
 ### Categories
+
 ```console
 GET : /api/categories
 POST : /api/categories
 PUT : /api/categories/:id
 DELETE : /api/categories/:id
 ```
+
 ### Product Assets
+
 ```console
 GET : /api/product-assets
 POST : /api/product-assets
 PUT : /api/product-assets/:id
 DELETE : /api/product-assets/:id
 ```
-
-
-
-
-
-
-
