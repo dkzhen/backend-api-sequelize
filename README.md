@@ -16,7 +16,7 @@ Instruksi langkah demi langkah tentang cara menginstal proyek ini. Termasuk pras
 https://github.com/dkzhen/backend-api-sequelize
 ```
 
-### clone repository
+### install library
 
 ```console
 npm install sequelize sequelize-cli express body-parser cors dotenv mysql2
