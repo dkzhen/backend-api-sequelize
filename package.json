@@ -1,14 +1,11 @@
 {
-  "name": "rest-api-express",
-  "version": "1.0.0",
+  "name": "dkzhen-api-sequelize",
+  "version": "1.1.4",
   "description": "",
   "main": "app.js",
   "scripts": {
     "dev": "nodemon app"
   },
-  "keywords": [],
-  "author": "Dani Kurniawan",
-  "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
@@ -20,5 +17,18 @@
   },
   "devDependencies": {
     "nodemon": "^3.0.2"
-  }
+  },
+  "repository": "git+https://github.com/dkzhen/backend-api-sequelize",
+  "author": "Dani Kurniawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkzhen/backend-api-sequelize/issues"
+  },
+  "homepage": "https://github.com/dkzhen/backend-api-sequelize/#readme",
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "restapi",
+    "sequelize"
+  ]
 }
